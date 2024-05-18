@@ -1,5 +1,5 @@
 # Hi there!👋 I’m Melaku Michael
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/melaku2000/melaku2000/main/GithubBanner-1.png)
+![my banner](https://raw.githubusercontent.com/melaku2000/melaku2000/main/GithubBanner-1.png)
 
 Passionate learner, coding enthusiast, and tech journey documented in code. 🚀
 
